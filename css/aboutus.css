@@ -22,3 +22,10 @@
     .navbar-dark {
         background-color: #512dA8;
     }
+    .tab-content{
+        border: 1px solid #ddd;
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        padding: 110px;
+
+    }

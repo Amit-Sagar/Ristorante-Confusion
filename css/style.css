@@ -30,3 +30,59 @@ body{
 .navbar-dark {
     background-color: #512dA8;
 }
+
+.asap{
+    padding: 5px 10px 5px 10px;
+    font-size: 25px;
+
+}
+.form-check-input{
+    padding-right: 5px;
+}
+#reserve{
+    padding: 20px 20px 30px 30px;
+}
+.carousel{
+    background-color: #512dA8;
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-item img{
+    position:absolute;
+    top:0;
+    left:0;
+    min-height:300px;
+}
+
+#carouselButton{
+    right: 0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+
+  
+ .modal-header{
+    background-color:#512dA8;
+    color:white;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #dfd3c3;
+  margin: 5% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button */
+.close-1{
+    background-color:#512dA8;
+}
+.close-1:hover,
+.close-1:focus {
+  color:black;
+  text-decoration: none;
+}
